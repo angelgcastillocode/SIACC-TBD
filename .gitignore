@@ -1,0 +1,27 @@
+﻿# Entorno y credenciales (NUNCA subir .env real)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs, temporales y capturas de prueba
+*.log
+*.tmp
+*.bak
+screenshots/
+browser_evidence/
+.DS_Store
+Thumbs.db
