@@ -25,3 +25,12 @@ screenshots/
 browser_evidence/
 .DS_Store
 Thumbs.db
+
+# Archivos escolares, datasets crudos y documentos binarios (solo locales)
+Tareas/
+conjunto_de_datos/
+diccionario_de_datos/
+metadatos/
+*.pdf
+*.zip
+*.docx
